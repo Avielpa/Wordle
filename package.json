@@ -1,0 +1,16 @@
+{
+  "name": "wordle-game",
+  "version": "1.0.0",
+  "description": "Wordle game",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=5500",
+    "install": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
